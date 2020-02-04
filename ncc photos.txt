@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>ncc photo gallery</title>
+</head>
+<body>
+<img src="1.jpg">
+</body>
+</html>
